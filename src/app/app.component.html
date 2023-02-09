@@ -1,43 +1,59 @@
 <div class="container ml-1 mt-1">
-  <div>
-    <button mat-raised-button (click)="oAuth2Twitch()" color="basic">
-      Twitch
-    </button>
-    <a
-      mat-raised-button
-      class="ml-1"
-      *ngIf="oAuthTokenTaken"
-      [href]="connectTwitch()"
-      color="accent"
-    >
-      OAUTH 2 Twitch
-    </a>
-  </div>
-  <div class="mt-1">
-    <form *ngIf="oAuthTokenTaken" [formGroup]="form" (ngSubmit)="submit()">
-      <mat-form-field appearance="outline">
-        <mat-label>Digite o usuario da twitch</mat-label>
-        <input matInput formControlName="user" />
-      </mat-form-field>
-
-      <div>
-        <button
-          type="submit"
-          mat-raised-button
-          (click)="oAuth2Twitch()"
-          [disabled]="form?.invalid"
-          color="primary"
-        >
-          Pesquisar
+    <div>
+        <button mat-raised-button (click)="oAuth2Twitch()" color="basic">
+            Twitch
         </button>
-      </div>
-    </form>
-  </div>
+        <a
+            mat-raised-button
+            class="ml-1"
+            *ngIf="oAuthTokenTaken"
+            [href]="connectTwitch()"
+            color="accent"
+        >
+            OAUTH 2 Twitch
+        </a>
+    </div>
+    <div class="mt-1">
+        <form *ngIf="oAuthTokenTaken" [formGroup]="form" (ngSubmit)="submit()">
+            <mat-form-field appearance="outline">
+                <mat-label>Digite o usuario da twitch</mat-label>
+                <input matInput formControlName="user" />
+            </mat-form-field>
 
-  <div>
-    <pre>
+            <div>
+                <button
+                    type="submit"
+                    mat-raised-button
+                    (click)="oAuth2Twitch()"
+                    [disabled]="form.invalid"
+                    color="primary"
+                >
+                    Pesquisar
+                </button>
+            </div>
+        </form>
+    </div>
+    <div class="mt-1">
+        <mat-divider></mat-divider>
+    </div>
 
-      {{ twitchUser$ | async | json }}
-    </pre>
-  </div>
+    <div *ngFor="let user of twitchUser$ | async">
+        <div>{{ user?.display_name }} - {{ user?.view_count }}</div>
+        <div>{{ user?.description }}</div>
+        <div>
+            <img
+                *ngIf="user?.profile_image_url"
+                width="280px"
+                [src]="user?.profile_image_url"
+                [alt]="user?.login"
+            />
+            <img
+                *ngIf="user?.offline_image_url"
+                width="500px"
+                [src]="user?.offline_image_url"
+                [alt]="user?.login"
+            />
+        </div>
+        <mat-divider></mat-divider>
+    </div>
 </div>
