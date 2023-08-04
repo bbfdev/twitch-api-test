@@ -1,3 +1,1 @@
-Venho informá-lo de que não vou poder participar da reunião "papo reto" hoje. Infelizmente, surgiu um imprevisto e não vou conseguir comparecer.
-
-Peço desculpas pelo inconveniente e espero que você entenda.
+https://pt.aliexpress.com/item/1005005290921612.html?src=google&src=google&albch=shopping&acnt=768-202-3196&isdl=y&aff_short_key=UneMJZVf&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&&isSmbAutoCall=false&needSmbHouyi=false&albcp=17939045214&albag=&trgt=&crea=pt1005005290921612&netw=x&device=c&albpg=&albpd=pt1005005290921612&gclid=EAIaIQobChMIvKjc7sadgAMVZy7UAR1Rug7sEAQYCCABEgIf9PD_BwE&gclsrc=aw.ds
