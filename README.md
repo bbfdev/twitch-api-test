@@ -1,1 +1,7 @@
-https://pt.aliexpress.com/item/1005005290921612.html?src=google&src=google&albch=shopping&acnt=768-202-3196&isdl=y&aff_short_key=UneMJZVf&slnk=&plac=&mtctp=&albbt=Google_7_shopping&aff_platform=google&&isSmbAutoCall=false&needSmbHouyi=false&albcp=17939045214&albag=&trgt=&crea=pt1005005290921612&netw=x&device=c&albpg=&albpd=pt1005005290921612&gclid=EAIaIQobChMIvKjc7sadgAMVZy7UAR1Rug7sEAQYCCABEgIf9PD_BwE&gclsrc=aw.ds
+🔵 17/08 - 22:00h - APIGEE_APP-FVE_FORCA_DE_VENDAS_EXTERNAS
+
+🔄 17/08 - 22:10h - Deploy feito GREEN. Validação técnica OK.
+
+⚠️ 17/08 - 22:15h - Durante a validação técnica nos deparamos com o erro 400 (um erro esperado quando não tem propostas retornada pela JL) 
+
+⚠️ 17/08 - 22:20h - OCP Norte fora, impactando a JL e WPC - Time acionado e esperamos  o time responsável resolver
