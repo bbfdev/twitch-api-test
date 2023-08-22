@@ -1,1 +1,1 @@
-https://www.parceirosantander.com.br/spa-base/main.4c7392dffc2baae6dfb0.js
+Qual é a proposta para usufruir da inteligência artificial no âmbito Santander e como podemos usar dos indicadores para sair na frente no mercado ?
