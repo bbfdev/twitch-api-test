@@ -1,1 +1,5 @@
-Como o Santander pode usar a inteligência artificial (IA) para melhorar a experiência do cliente, aumentar a eficiência operacional e tomar melhores decisões?
+Pessoal, estamos com algum problema de infra, tentamos subir algumas correções de BUGs no ambiente HK e o pod está restartando.
+
+
+
+Com isso a jornada de onboarding (master) está fora até a normalização do mesmo.
