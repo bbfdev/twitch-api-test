@@ -1,5 +1,1 @@
-Compreendo que a significativa alteração para a adequação da abertura da sessão JL está relacionada ao produto. Neste contexto, gostaríamos de verificar se há alguma informação adicional do FVE que seja necessária para a integração com o WPC/JL. Agradecemos a sua colaboração e estamos à disposição para discutir qualquer dúvida ou consideração adicional.
-
-
-
-
+O relacionamento CorBans e Santander apresenta uma série desafios e a proposta da Força de Venda Externa (FVE) parte da premissa da evolução desse relacionamento, almejando um melhor alinhamento e resultado entre as partes. Dessa idealização de um melhor relacionamento, a Força de Venda Externa vê seu objetivo sendo alcançado através dos esforços em cinco grandes capacidades dentro do fluxo do projeto.
