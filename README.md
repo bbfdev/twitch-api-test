@@ -1,1 +1,3 @@
-Boas novas sobre as camisetas do FVE!  Infelizmente, tivemos que dar "tchau" a dois modelos (a preta e a branca com o arco-íris 🌈) porque, bem, elas estavam com mania de serem muito caras. 😅 Se vocês puderem, atualizem nosso querido Excel (link abaixo). Ah, e lembrem-se de que o valor da camiseta é de 55 reais, o que é mais em conta do que uma pizza, mas muito mais estiloso! 🍕💃
+Entendo que a grande mudança para adequação da abertura de sessão JL é do produto, o que precisamos validar é se 
+WPC/JL precisa de alguma outra informação do FVE.
+ 
