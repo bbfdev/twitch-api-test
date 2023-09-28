@@ -1,1 +1,5 @@
-O relacionamento CorBans e Santander apresenta uma série desafios e a proposta da Força de Venda Externa (FVE) parte da premissa da evolução desse relacionamento, almejando um melhor alinhamento e resultado entre as partes. Dessa idealização de um melhor relacionamento, a Força de Venda Externa vê seu objetivo sendo alcançado através dos esforços em cinco grandes capacidades dentro do fluxo do projeto.
+Numa comunicação utilizando criptografia assimétrica, qual seria a sequência correta?
+
+Bob envia uma mensagem usando a chave pública de Alice. Ela por sua vez abre a mensagem com sua própria chave privada.
+Bob envia uma mensagem para Alice usando a chave privada dela, que decriptografa utilizando a chave pública de bob.
+Bob envia uma mensagem para Alice usando sua própria chave privada. Alice abre a mensagem com a mesma chave privada que Bob utilizou.
