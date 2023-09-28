@@ -1,5 +1,5 @@
-Sobre hash e encriptação, é correto afirmar:
+Como chamamos o processo pelo qual uma empresa garante o fluxo de pessoas, atividades, informações e recursos envolvidos na atividade de produção ou criação de um bem ou serviço?
 
-- Ambos são reversíveis
-- Enquanto o primeiro é irreversível, o segundo pode ser revertido com a chave correta
-- Ambos são irreversíveis
+- Cadeia de suprimentos
+- Código aberto
+- Bibliotecas
