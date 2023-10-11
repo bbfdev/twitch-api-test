@@ -1,15 +1,27 @@
-Queridos Fernando e Natália,
+The third Women in Tech Summit is really soon! 👩🏿‍💻👩🏻‍💻👩‍💻👩🏽‍💻
 
-Espero que esteja tudo bem com vocês! Quero começar esta mensagem expressando minha profunda gratidão pelo incrível trabalho que vocês realizaram na semana passada. A dedicação e empenho que vocês demonstraram na correção dos bugs foram verdadeiramente notáveis e fizeram toda a diferença.
+ 
 
-A entrega em produção foi simplesmente incrível! Graças ao esforço conjunto da nossa equipe, conseguimos superar os desafios e entregar um produto de alta qualidade aos nossos clientes. Isso não teria sido possível sem a sua expertise e comprometimento.
+The real technological revolution is to increase the presence of women in its creation and development, and at Santander we are leading it.
 
-Fernando e Natália, vocês são verdadeiros exemplos de profissionais dedicados e talentosos. Sua paixão pelo desenvolvimento Angular e sua habilidade em resolver problemas são admiráveis. Vocês não apenas cumpriram as expectativas, mas as superaram de maneira brilhante.
+ 
 
-Estou confiante de que nosso sucesso contínuo está garantido com talentos como vocês em nossa equipe. Continuem fazendo o excelente trabalho que estão fazendo, pois vocês são fundamentais para o progresso e sucesso da nossa empresa.
+Join us in this event to reinforce the value of diversity in tech teams:
 
-Mais uma vez, muito obrigado pelo seu comprometimento e pelo excelente trabalho na semana passada. Estou ansioso para ver todas as conquistas que ainda alcançaremos juntos no futuro.
+ 
 
-Com gratidão e admiração,
+📅 19 october
 
-[Seu Nome]
+🕐 5pm Madrid | 4pm London | 9am Mexico City | 11am New York | 12pm Brasilia
+
+💬 Language: English with real-time voice translation into Spanish
+
+😁 Event open to public 
+
+ 
+
+♨ Inspirational leaders from Santander like Cristina Alvarez, Alexandra Brandao, Dámaso Cebrián and Idoia Mateo, among others, will accompany us. 
+
+ 
+
+Watch out the amazing agenda and register here (for every registration we are donating 3€ to Technovation Girls non-profit) 👉👉👉 https://events.mongodb.com/thefutureofwomenintechsantander?u...
