@@ -1,3 +1,3 @@
-⚠️ Meus negócios - Quando substabelecido, o id do master não é incluído na tabela de registro de integração do onboarding (onboardingRegister), resultando em um erro.
+Quando for substabelecido gravar base "onboarding register" o id do master no campo
 
-⚠️ Meus negócios  - Ao realizar uma busca na api de personas, identificamos alguns casos nos quais o e-mail não é retornado (vem vazio), o que ocasiona um erro no backend.
+Ao bater no personas tem alguns casos que não trás o e-mail (vem vázio) e causa um erro no backend.
