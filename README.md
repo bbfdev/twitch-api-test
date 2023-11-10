@@ -1,3 +1,1 @@
-Quando for substabelecido gravar base "onboarding register" o id do master no campo
-
-Ao bater no personas tem alguns casos que não trás o e-mail (vem vázio) e causa um erro no backend.
+Na próxima implementação, é necessário corrigir o cenário no qual, ao ocorrer um substabelecimento, o ID do mestre deve ser registrado no campo correspondente da base "onboarding register". Além disso, deve-se realizar uma correção no backend para lidar com casos em que, ao consultar as personas, alguns não trazem o e-mail (vem vazio), causando um erro na operação do backend.
