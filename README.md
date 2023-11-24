@@ -1,5 +1,1 @@
-Bom dia Vini, tudo bem?
-
-
-
-Queria entender esse e-mail enviado pela Franciane da Silva Ferreira (titulo: [Sigla IY] De Acordo Canais - Seguros - Portal Parceiros FVE em 27/11/23) o qual solicita um "de acordo" da Juliana e me colocaram como "FOCAL" por parte do FVE. O preciso entender é o porque precisam da aprovação da Jú nesse deploy e o que muda.
+Prezado Vini, bom dia. Espero que estejas bem. Gostaria de esclarecer o conteúdo do e-mail encaminhado pela senhora Franciane da Silva Ferreira, com o título "[Sigla IY] De Acordo Canais - Seguros - Portal Parceiros FVE em 27/11/23". No referido comunicado, solicita-se a confirmação de aprovação por parte da Juliana, tendo-me sido atribuída a responsabilidade de ponto focal pelo FVE. Desejo compreender as razões subjacentes à necessidade de aprovação da Juliana nesse processo de implantação e as implicações decorrentes das possíveis mudanças.
