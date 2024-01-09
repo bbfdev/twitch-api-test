@@ -13,3 +13,4 @@ Agradeço ao Jonnathan pela apreciação e destaco a importância de "Movie Toge
 #TrabalhoEmEquipe #MovieTogether #ValoresCorporativos #SantanderWay #Inovação #Comprometimento #Agradecimento #F1rst
 
 #Santander 
+![image](https://github.com/bbfdev/twitch-api-test/assets/11894034/5bdb2238-7e80-4076-93c2-2b475bc731f9)
